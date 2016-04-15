@@ -245,7 +245,7 @@ void Population::fillUP(Population * newe, Population * oldy,Individual &fath, I
 {
 	cout << "aqui iFill oldy:" << endl;
 	printVecP(oldy);
-	cout << endl << endl;
+	cout << endl << endl;//
 	
 	cout << "aqui 1" << endl;
 	bool incomplete = true;
